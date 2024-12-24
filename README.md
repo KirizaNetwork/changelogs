@@ -1,14 +1,16 @@
 # KirizaNetwork Changelog
+
 Ingin tahu apa yang baru di server KirizaNetwork? Cek changelog ini untuk informasi update terbaru!
 
-|                   | Changelog Terbaru                               |
-|-------------------|-------------------------------------------------|
-| MC Version Update | [23 Desember 2024](changelogs/mc/2024-12-23.md) |
-| Global            | -                                               |
-| Survival          | -                                               |
-| Oneblock          | -                                               |
+|                   | Changelog Terbaru                                     |
+|-------------------|-------------------------------------------------------|
+| MC Version Update | [23 Desember 2024](changelogs/mc/2024-12-23.md)       |
+| Global            | [07 Desember 2024](changelogs/global/2024-12-07.md)   |
+| Survival          | [21 Desember 2024](changelogs/survival/2024-12-21.md) |
+| Oneblock          | [07 Desember 2024](changelogs/oneblock/2024-12-07.md) |
 
 ## Jenis Perubahan
+
 - `Penambahan`: Penambahan fitur baru
 - `Perubahan`: Perubahan pada fitur yang telah ada
 - `Perbaikan`: Perbaikan masalah yang ada di server

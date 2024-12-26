@@ -5,7 +5,7 @@ Ingin tahu apa yang baru di server KirizaNetwork? Cek changelog ini untuk inform
 |                   | Changelog Terbaru                                     |
 |-------------------|-------------------------------------------------------|
 | MC Version Update | [23 Desember 2024](changelogs/mc/2024-12-23.md)       |
-| Global            | [07 Desember 2024](changelogs/global/2024-12-07.md)   |
+| Global            | [23 Desember 2024](changelogs/global/2024-12-23.md)   |
 | Survival          | [21 Desember 2024](changelogs/survival/2024-12-21.md) |
 | Oneblock          | [07 Desember 2024](changelogs/oneblock/2024-12-07.md) |
 
